@@ -2,6 +2,13 @@
 
 A school project for a database design and insertion for a real estate agency
 
+
+
+![erd](https://user-images.githubusercontent.com/63417620/137631682-d1e72b93-2fd5-46ee-b810-38eb97faeead.jpg)
+
+
+
+
 #########################################################################################
 Business Use Case Scenario
 This case involves a Database creation for a small real estate agency owned by John Wick. In fact, his agency is so small that he is the only agent in the company along with a part-time data entry assistant.  John wants to have a database that will keep track of key information for his agency.  John has asked you to develop the database that will support a Website that is under development by another contractor.

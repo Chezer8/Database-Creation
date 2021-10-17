@@ -16,13 +16,20 @@ Finally, John sometimes sells properties that are listed by other agencies. For 
 Tasks
 Each will produce:
 •	an Entity Relationship Diagram of their design using MS Visio of other electronic software
+
 •	the creation script for creating all tables, fields and relationships in the database
+
 •	a separate file that contains insertion scripts for inserting a minimum of 10 records per table where appropriate.  This will be fake made up data, but it must make sense.
+
 •	Produce Views to create a minimum of 4 reports that will enable John to see the state of his business, the properties currently for sale, a client list and a report of his total sales for a year of his choosing. (i.e. parameter input).
 
 Note:
 •	Design to 3NF
+
 •	Use the documented style guide for all naming, sql scripts and ERD formatting.
+
 •	Create meaningful names for all attributes and use # symbol for Primary Key and use FK for Foreign Key.
+
 •	Show all table names and column names
+
 •	Show all business rules that you used to determine the relationship types between tables
